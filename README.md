@@ -1,5 +1,11 @@
 # 🔥 RED TEAM AI LAB - LLM Jailbreak & Pentesting Framework
 
+[![GitHub Stars](https://img.shields.io/github/stars/Geralt2702/red-team-ai-lab.svg)](https://github.com/Geralt2702/red-team-ai-lab)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Geralt2702/red-team-ai-lab)](https://github.com/Geralt2702/red-team-ai-lab)
+[![GitHub Issues](https://img.shields.io/github/issues/Geralt2702/red-team-ai-lab)](https://github.com/Geralt2702/red-team-ai-lab/issues)
+
 **A comprehensive white-hat penetration testing framework for LLM security assessment and jailbreak vulnerability detection.**
 
 ```
