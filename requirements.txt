@@ -1,0 +1,19 @@
+# Dolphin LLM Framework - Zależności Python
+
+# GUI
+PySimpleGUI>=4.60.0
+
+# API Server
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+
+# HTTP Client
+requests>=2.31.0
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6

@@ -1,0 +1,11 @@
+
+============================================================
+Traceback (most recent call last):
+  File "C:\Users\zapod\red-team-ai-lab\attack_engine.py", line 257, in <module>
+    engine.run_all_attacks()
+  File "C:\Users\zapod\red-team-ai-lab\attack_engine.py", line 125, in run_all_attacks
+    print(f"\U0001f525 ATTACK ENGINE - Starting comprehensive test")
+  File "C:\Users\zapod\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1250.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f525' in position 0: character maps to <undefined>
